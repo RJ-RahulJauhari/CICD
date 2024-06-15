@@ -7,4 +7,4 @@ def home():
     return 'Welcome to Flask with CI/CD'
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run()
